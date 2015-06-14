@@ -1,6 +1,7 @@
 # SeekBar-Swipecontrol
 SeekBar with swipecontrol helps to control the seekbar with the left,right,top,bottom swipe on screen.Its has many use cases like video player volume and brightness control of various Video Players on play store.
 
+Blog : http://code2concept.blogspot.in/2015/06/seekbar-swipe-control.html 
 
 ![Horizontal Swipe](https://cloud.githubusercontent.com/assets/10304040/8131390/981e2338-1137-11e5-8d73-ecfbd6046090.png)
 
